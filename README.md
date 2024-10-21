@@ -9,3 +9,13 @@
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
+
+
+# Полезная информация
+1. Мод Real War - http://rutor.info/torrent/207027/battlefield-2-2005-pc-real-war-polnyj-komplekt-dlja-igry-po-internetu
+    - TO DO Найти по нему информацию о создателях
+
+
+# Сообщества
+1. https://discord.gg/aAaXf9G
+2. https://t.me/bf2RW
