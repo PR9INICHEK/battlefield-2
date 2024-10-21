@@ -25,6 +25,7 @@
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
+2. https://www.youtube.com/watch?v=CcG2RCd_-2I - RUSmarines - https://www.mediafire.com/folder/ajhvr45vbvj0o/BF2_RUSmarines(Single_player
 
 
 # Полезная информация
@@ -43,3 +44,11 @@
     - https://t.me/bf2RW
     - https://t.me/playbf2ru
 2. https://www.facebook.com/bf2thoss - Тайское
+
+
+# Патчи
+1. 1.41 - https://www.moddb.com/downloads/battlefield-2-v141-patch
+    - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
+3. 1.50 - https://gamefiles.bf2hub.com/BF2_Patch_1_50_Full.exe
+4. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
+5. 
