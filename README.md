@@ -13,7 +13,7 @@
 7. Инструменты для сервера - https://www.bf-games.net/downloads/category/147/servertools.html
 
 # Полезные ссылки
-3. Сервер Old School - http://www.bf2-oss.com/
+1. Сервер Old School - http://www.bf2-oss.com/
 5. Старый форум ребят - https://bf2-nns.clan.su/forum/4
 6. http://bf2.breiker.net/
 7. https://github.com/search?q=battlefield+2&type=repositories - поиск инфы по гитхабу
