@@ -43,7 +43,9 @@
     - https://discord.gg/aAaXf9G
     - https://t.me/bf2RW
     - https://t.me/playbf2ru
-2. https://www.facebook.com/bf2thoss - Тайское
+2. https://www.lost-soldiers.org/v2.php?site=forum
+3. 
+4. https://www.facebook.com/bf2thoss - Тайское
 
 
 # Патчи
