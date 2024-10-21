@@ -21,7 +21,7 @@
     - Интересно, откуда скрин со статистикой
 12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
-14. Играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
+14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
@@ -35,6 +35,7 @@
     - Часть инфы - https://vk.com/wall-105794834_990
 2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
 3. Руководство от PlayBF2 - https://playbf2.tilda.ws/
+4. https://www.youtube.com/watch?v=20riC-ouDis
 
 
 # Сообщества
@@ -44,8 +45,10 @@
     - https://t.me/bf2RW
     - https://t.me/playbf2ru
 2. https://www.lost-soldiers.org/v2.php?site=forum
-3. 
-4. https://www.facebook.com/bf2thoss - Тайское
+3. https://www.reddit.com/r/Battlefield2/
+    - https://www.reddit.com/r/Battlefield2/wiki/clans/
+5. 
+6. https://www.facebook.com/bf2thoss - Тайское
 
 
 # Патчи
