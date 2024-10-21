@@ -60,6 +60,8 @@
 # Патчи
 1. 1.41 - https://www.moddb.com/downloads/battlefield-2-v141-patch
     - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
+    - https://www.bf-games.net/downloads/952/battlefield-2-client-patch-141-full-install.html
 3. 1.50 - https://gamefiles.bf2hub.com/BF2_Patch_1_50_Full.exe
-4. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
-5. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
+   - https://www.bf-games.net/downloads/2319/battlefield-2-client-patch-15-final.html
+5. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
+6. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
