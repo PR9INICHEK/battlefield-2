@@ -9,6 +9,7 @@
     - > wget http://dev.insomnia365.com/mirror/bf2/1.41_patch/bf2-linuxded-1.1.2965-797.0-installer.sh
     - > chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh
     - > ./bf2-linuxded-1.1.2965-797.0-installer.sh
+    - Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
