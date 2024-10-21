@@ -7,7 +7,7 @@
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
 5. Скрипты для админов
-- https://github.com/DontCamp/dontcamp_bf2
+    - https://github.com/DontCamp/dontcamp_bf2
 6.
 
 # Полезные ссылки
@@ -27,6 +27,7 @@
     - Скачать - https://mega.nz/file/9r9EkRrZ#Gpu_q3TchQp6OZMQKJrBcaS1WZN4g1y-T3QVc1GUKNY
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
+2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
 
 
 # Сообщества
