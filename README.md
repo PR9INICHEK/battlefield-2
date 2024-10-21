@@ -27,7 +27,8 @@
 15. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
 16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
 17. если захочу приобрести физическую копию - https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
-18. 
+18. какая-то длинная инструкция - https://www.cd-2-dvd.com/battlefield-2-complete-edition/
+19. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
