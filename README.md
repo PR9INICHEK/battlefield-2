@@ -9,7 +9,7 @@
 5. Скрипты для админов
     - https://github.com/DontCamp/dontcamp_bf2
 6. Серверные файлы - https://www.bf-games.net/downloads/category/153/serverfiles.html
-7. 
+7. Инструменты для сервера - https://www.bf-games.net/downloads/category/147/servertools.html
 
 # Полезные ссылки
 3. Сервер Old School - http://www.bf2-oss.com/
