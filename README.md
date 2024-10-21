@@ -29,11 +29,13 @@
 16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
 17. если захочу приобрести физическую копию - https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
 18. какая-то длинная инструкция - https://www.cd-2-dvd.com/battlefield-2-complete-edition/
-19. 
+19. ВОЗМОЖНО, ЧТО ЗДЕСЬ 1.0 ВЕРСИЯ - https://archive.org/details/bf2.7z
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
 2. https://www.youtube.com/watch?v=CcG2RCd_-2I - RUSmarines - https://www.mediafire.com/folder/ajhvr45vbvj0o/BF2_RUSmarines(Single_player
+3. Для ИИ - https://www.moddb.com/mods/krazivan777/downloads/updated-ai-files
+4. 
 
 
 # Полезная информация
