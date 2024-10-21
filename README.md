@@ -97,4 +97,4 @@
 1. https://www.moddb.com/games/battlefield-2/tutorials/how-to-edit-files-while-playing
 2. https://www.moddb.com/games/battlefield-2/tutorials/how-to-create-and-edit-a-navmesh
 3. https://www.moddb.com/games/battlefield-2/tutorials/how-weapons-work-basic-tutorial
-4. 
+4. https://vk.com/bf2modding
