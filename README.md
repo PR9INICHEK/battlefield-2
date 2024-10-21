@@ -61,4 +61,4 @@
     - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
 3. 1.50 - https://gamefiles.bf2hub.com/BF2_Patch_1_50_Full.exe
 4. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
-5. 
+5. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
