@@ -13,6 +13,7 @@
 
 # Полезная информация
 1. Мод Real War - http://rutor.info/torrent/207027/battlefield-2-2005-pc-real-war-polnyj-komplekt-dlja-igry-po-internetu
+    - Скачать - https://mega.nz/file/9r9EkRrZ#Gpu_q3TchQp6OZMQKJrBcaS1WZN4g1y-T3QVc1GUKNY
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
 
