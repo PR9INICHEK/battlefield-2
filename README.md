@@ -5,6 +5,10 @@
     -  +ещё инфа https://bf2-nns.clan.su/forum/4-77-1
     - https://opticatelecom.ru/forum/topic/4773-%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-battlefield-2/
     - Для версии 1.0 - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
+    - 1.41 - https://forums.bf2s.com/viewtopic.php?id=81206
+    - > wget http://dev.insomnia365.com/mirror/bf2/1.41_patch/bf2-linuxded-1.1.2965-797.0-installer.sh
+    - > chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh
+    - > ./bf2-linuxded-1.1.2965-797.0-installer.sh
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
