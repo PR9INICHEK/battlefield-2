@@ -35,8 +35,9 @@
 
 
 # Сообщества
-1. https://vk.com/t_gamer_real_war
+1. https://vk.com/t_gamer_real_war и https://vk.com/playbf2
     - https://forum.tgamer.ru/index.php
     - https://discord.gg/aAaXf9G
     - https://t.me/bf2RW
+    - https://t.me/playbf2ru
 2. https://www.facebook.com/bf2thoss - Тайское
