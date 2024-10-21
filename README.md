@@ -68,5 +68,6 @@
 3. 1.50 - https://gamefiles.bf2hub.com/BF2_Patch_1_50_Full.exe
    - https://www.bf-games.net/downloads/2319/battlefield-2-client-patch-15-final.html
    - https://www.fileplanet.com/archive/p-2033/Battlefield-2-Patch-v1-5
+       - Там же есть список изменений
 5. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
 6. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
