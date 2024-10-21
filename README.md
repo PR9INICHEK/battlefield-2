@@ -6,7 +6,9 @@
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
-5.
+5. Скрипты для админов
+- https://github.com/DontCamp/dontcamp_bf2
+6.
 
 # Полезные ссылки
 3. Сервер Old School - http://www.bf2-oss.com/
