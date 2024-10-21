@@ -5,6 +5,7 @@
 3. Сервер Old School - http://www.bf2-oss.com/
 5. Старый форум ребят - https://bf2-nns.clan.su/forum/4
 6. http://bf2.breiker.net/
+7. https://github.com/search?q=battlefield+2&type=repositories - поиск инфы по гитхабу
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
