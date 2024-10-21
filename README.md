@@ -41,6 +41,8 @@
 # Полезная информация
 1. Мод Real War - http://rutor.info/torrent/207027/battlefield-2-2005-pc-real-war-polnyj-komplekt-dlja-igry-po-internetu
     - Скачать - https://mega.nz/file/9r9EkRrZ#Gpu_q3TchQp6OZMQKJrBcaS1WZN4g1y-T3QVc1GUKNY
+    - https://rutracker.org/forum/viewtopic.php?t=3229111
+    - https://rutracker.org/forum/viewtopic.php?t=3061967
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
 2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
