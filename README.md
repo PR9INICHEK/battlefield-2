@@ -11,6 +11,7 @@
     - > ./bf2-linuxded-1.1.2965-797.0-installer.sh
     - Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
     - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
+        - В комментариях есть полезная инфа
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
