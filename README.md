@@ -25,7 +25,8 @@
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
 14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
 15. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
-16. 
+16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
+17. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
