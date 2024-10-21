@@ -8,7 +8,8 @@
     - https://github.com/chrisw1229/bf2-stats
 5. Скрипты для админов
     - https://github.com/DontCamp/dontcamp_bf2
-6.
+6. Серверные файлы - https://www.bf-games.net/downloads/category/153/serverfiles.html
+7. 
 
 # Полезные ссылки
 3. Сервер Old School - http://www.bf2-oss.com/
@@ -22,6 +23,8 @@
 12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
 14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
+15. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
+16. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
