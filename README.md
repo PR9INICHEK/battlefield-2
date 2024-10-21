@@ -19,7 +19,8 @@
 
 
 # Сообщества
-1. https://forum.tgamer.ru/index.php
+1. https://vk.com/t_gamer_real_war
+    - https://forum.tgamer.ru/index.php
     - https://discord.gg/aAaXf9G
     - https://t.me/bf2RW
-2. 
+3. 
