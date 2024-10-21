@@ -19,7 +19,7 @@
 9. https://github.com/art567/bf2keyman/tree/master - @tema567 создатель, в тг
 10. https://dtf.ru/u/887043-uplay/2458421-battlefield-2-v-2000-msk-300124?comment=35108203
     - Интересно, откуда скрин со статистикой
-12. 
+12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
