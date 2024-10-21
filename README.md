@@ -31,6 +31,7 @@
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
 2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
+3. Руководство от PlayBF2 - https://playbf2.tilda.ws/
 
 
 # Сообщества
