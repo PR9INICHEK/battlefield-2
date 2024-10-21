@@ -21,6 +21,7 @@
     - Интересно, откуда скрин со статистикой
 12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
+14. Играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
