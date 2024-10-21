@@ -13,6 +13,8 @@
     - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
         - В комментариях есть полезная инфа
     - https://forum.lissyara.su/igry-f33/battlefield-2-server-t8015.html#p66968
+    - https://www.forum-volgograd.ru/threads/75914/page-3#post-1539801
+        - > В принципе, у меня есть и bf2-linuxded-1.1.2965-797.0-installer.sh, т.е. сервер под linux версии 1.41, а к нему еще какие-то скрипты для статистики и еще что-то... Накачал, а времени разбираться нет.
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
