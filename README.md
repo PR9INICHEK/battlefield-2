@@ -12,6 +12,7 @@
     - Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
     - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
         - В комментариях есть полезная инфа
+    - https://forum.lissyara.su/igry-f33/battlefield-2-server-t8015.html#p66968
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
