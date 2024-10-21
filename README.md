@@ -36,6 +36,11 @@
 2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
 3. Руководство от PlayBF2 - https://playbf2.tilda.ws/
 4. https://www.youtube.com/watch?v=20riC-ouDis
+5. Номера сборки, не совпадают с номерами версии патчей...
+    - v1.0 = 1.0.2442.0
+    - v1.2 = 1.1.2696-528.0
+    - v1.3 = 1.1.2878-710.0
+    - https://rutracker.org/forum/viewtopic.php?p=84071361#84071361
 
 
 # Сообщества
