@@ -44,6 +44,11 @@
 18. какая-то длинная инструкция - https://www.cd-2-dvd.com/battlefield-2-complete-edition/
 19. ВОЗМОЖНО, ЧТО ЗДЕСЬ 1.0 ВЕРСИЯ - https://archive.org/details/bf2.7z
 20. Фикс для широкоформатных экранов - https://github.com/marekzajac97/BF2-HUD-fix
+21. https://battlefield.fandom.com/wiki/Battlefield_2
+    - https://battlefield.fandom.com/wiki/Battlefield_2:_Special_Forces
+    - https://battlefield.fandom.com/wiki/Battlefield_2:_Euro_Force
+    - https://battlefield.fandom.com/wiki/Battlefield_2:_Armored_Fury
+22. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
