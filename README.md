@@ -59,6 +59,9 @@
     - https://rutracker.org/forum/viewtopic.php?t=3229111
     - https://rutracker.org/forum/viewtopic.php?t=3061967
     - https://rutracker.org/forum/viewtopic.php?t=4391419
+    - http://rutor.info/torrent/207027/battlefield-2-2005-pc-real-war-polnyj-komplekt-dlja-igry-po-internetu
+    - http://rutor.info/torrent/74169/battlefield-2-2005-pc-real-war-rangovye-servera
+    - http://rutor.info/torrent/16563/battlefield-2-2005-pc-real-war
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
 2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
@@ -96,6 +99,7 @@
    - https://www.bf-games.net/downloads/2319/battlefield-2-client-patch-15-final.html
    - https://www.fileplanet.com/archive/p-2033/Battlefield-2-Patch-v1-5
        - Там же есть список изменений
+   - http://rutor.info/torrent/864262/battlefield-2-complete-collection-2007-pc-repack-ot-canek77
 5. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
 6. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
 7. 1.0 - https://rutracker.org/forum/viewtopic.php?t=6351023
