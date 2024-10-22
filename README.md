@@ -114,3 +114,6 @@
 6. https://github.com/rpoxo?tab=repositories
     - https://github.com/rpoxo/objmodv2
 7.  
+
+# Открытые вопросы
+1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
