@@ -99,6 +99,8 @@
 5. Инструкция по установке патчей - https://www.bf2hub.com/kb/patching-bf2
 6. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
 7. 1.0 - https://rutracker.org/forum/viewtopic.php?t=6351023
+    - https://rutracker.org/forum/viewtopic.php?t=5642954
+- 
 
 # Моддинг
 1. https://www.moddb.com/games/battlefield-2/tutorials/how-to-edit-files-while-playing
