@@ -106,3 +106,5 @@
 4. https://vk.com/bf2modding
 5. https://github.com/marekzajac97/bf2-blender
 6. https://github.com/rpoxo?tab=repositories
+    - https://github.com/rpoxo/objmodv2
+7.  
