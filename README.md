@@ -99,6 +99,7 @@
     - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
     - https://www.bf-games.net/downloads/952/battlefield-2-client-patch-141-full-install.html
     - https://community.pcgamingwiki.com/files/file/73-battlefield-2-patch/
+    - https://thepiratebay0.org/torrent/5054667/Battlefield_2__Complete_Collection
 3. 1.50 - https://gamefiles.bf2hub.com/BF2_Patch_1_50_Full.exe
    - https://www.bf-games.net/downloads/2319/battlefield-2-client-patch-15-final.html
    - https://www.fileplanet.com/archive/p-2033/Battlefield-2-Patch-v1-5
@@ -108,6 +109,7 @@
 6. 1.3 - https://rutracker.org/forum/viewtopic.php?t=6299657
 7. 1.0 - https://rutracker.org/forum/viewtopic.php?t=6351023
     - https://rutracker.org/forum/viewtopic.php?t=5642954
+    - https://thepiratebay0.org/torrent/8163761/Battlefield_2_v1.0_full_game
 - 
 
 # Моддинг
