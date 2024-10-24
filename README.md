@@ -28,7 +28,7 @@
 9. Архитектура - https://vk.com/real_war2?z=photo69989676_456239179%2Fphoto_feed69989676
 10. Ещё инфа про порты - https://xn----8sbbemc3a7aecex.xn--p1ai/forum/lofiversion/index.php/t48555.html
     - https://diesel.elcat.kg/index.php?showtopic=2159974&page=3
-11. 
+11. Есть файлы, но не ясно, можно ли их скачать - http://ftp2.sly.hu/index.php3?dr=letolt//battlefield2
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
