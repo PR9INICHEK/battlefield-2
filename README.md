@@ -180,3 +180,11 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2 Special Forces\wdc]
 @="true"
+
+
+
+# Объявления о продаже дисков
+1. https://www.ebay.com/itm/405200557698
+2. https://www.ebay.com/itm/375537961232
+3. https://www.ebay.com/itm/205058695837
+4. https://www.ebay.com/itm/16703268986
