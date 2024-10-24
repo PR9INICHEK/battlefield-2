@@ -35,7 +35,6 @@
 9. https://github.com/art567/bf2keyman/tree/master - @tema567 создатель, в тг
 10. https://dtf.ru/u/887043-uplay/2458421-battlefield-2-v-2000-msk-300124?comment=35108203
     - Интересно, откуда скрин со статистикой
-12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
 14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
 16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
@@ -113,6 +112,7 @@
 - 
 
 # Моддинг
+0. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 1. https://www.moddb.com/games/battlefield-2/tutorials/how-to-edit-files-while-playing
 2. https://www.moddb.com/games/battlefield-2/tutorials/how-to-create-and-edit-a-navmesh
 3. https://www.moddb.com/games/battlefield-2/tutorials/how-weapons-work-basic-tutorial
