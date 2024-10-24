@@ -53,7 +53,8 @@
     - https://battlefield.fandom.com/wiki/Battlefield_2:_Armored_Fury
 22. Для разблокировке 64 версий карт - https://archive.org/details/bf2all64_v1.0_setup
 23. В Steam - https://steamdb.info/app/24860/depots/
-24. 
+24. https://www.playground.ru/battlefield_2/file/rus
+25. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
