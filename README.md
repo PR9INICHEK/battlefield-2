@@ -121,7 +121,8 @@
 5. https://github.com/marekzajac97/bf2-blender
 6. https://github.com/rpoxo?tab=repositories
     - https://github.com/rpoxo/objmodv2
-7.  
+7.  https://archive.org/details/sample-bf2-kit-team
+8.  
 
 # Открытые вопросы
 1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
