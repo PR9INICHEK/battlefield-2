@@ -61,7 +61,8 @@
 2. https://www.youtube.com/watch?v=CcG2RCd_-2I - RUSmarines - https://www.mediafire.com/folder/ajhvr45vbvj0o/BF2_RUSmarines(Single_player
 3. Для ИИ - https://www.moddb.com/mods/krazivan777/downloads/updated-ai-files
 4. Для больших карт - https://www.moddb.com/games/battlefield-2/downloads/bf2-larger-sp-maps
-5. 
+5. https://www.playground.ru/battlefield_2/file/battlefield_2_karta_highway_tampa_fix_coop-1261534
+6. 
 
 
 # Полезная информация
