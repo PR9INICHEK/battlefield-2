@@ -26,7 +26,7 @@
 7. Инструменты для сервера - https://www.bf-games.net/downloads/category/147/servertools.html
 8. Ещё какой-то скрипт - https://gist.github.com/rkantos/d08f9b4fde6081553bbbdbf3888bab58
 9. Архитектура - https://vk.com/real_war2?z=photo69989676_456239179%2Fphoto_feed69989676
-10. 
+10. Ещё инфа про порты - https://xn----8sbbemc3a7aecex.xn--p1ai/forum/lofiversion/index.php/t48555.html
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
