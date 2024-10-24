@@ -38,7 +38,6 @@
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
 14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
 16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
-17. если захочу приобрести физическую копию - https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
 18. какая-то длинная инструкция - https://www.cd-2-dvd.com/battlefield-2-complete-edition/
 19. ВОЗМОЖНО, ЧТО ЗДЕСЬ 1.0 ВЕРСИЯ - https://archive.org/details/bf2.7z
 20. Фикс для широкоформатных экранов - https://github.com/marekzajac97/BF2-HUD-fix
@@ -191,3 +190,4 @@ Windows Registry Editor Version 5.00
 3. https://www.ebay.com/itm/205058695837
 4. https://www.ebay.com/itm/16703268986
 5. https://www.avito.ru/moskva/igry_pristavki_i_programmy/battlefield_2_zarubezhnaya_litsenziya_dvd-box_3638444786
+6. https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
