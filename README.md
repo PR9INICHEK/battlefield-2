@@ -122,7 +122,8 @@
 6. https://github.com/rpoxo?tab=repositories
     - https://github.com/rpoxo/objmodv2
 7.  https://archive.org/details/sample-bf2-kit-team
-8.  
+8.  https://archive.org/details/battlefield-2-complete-tools-pack
+9.  
 
 # Открытые вопросы
 1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
