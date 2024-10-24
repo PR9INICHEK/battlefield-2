@@ -48,7 +48,7 @@
     - https://battlefield.fandom.com/wiki/Battlefield_2:_Special_Forces
     - https://battlefield.fandom.com/wiki/Battlefield_2:_Euro_Force
     - https://battlefield.fandom.com/wiki/Battlefield_2:_Armored_Fury
-22. 
+22. Для разблокировке 64 версий карт - https://archive.org/details/bf2all64_v1.0_setup
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
