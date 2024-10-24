@@ -66,10 +66,11 @@
     - http://rutor.info/torrent/16563/battlefield-2-2005-pc-real-war
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
-2. Руководство по установке от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
-3. Руководство от PlayBF2 - https://playbf2.tilda.ws/
-    - https://drive.google.com/drive/folders/1Ia3HpS0mhZMGWSnx9EIJ-t-ljCkpCEE_
-5. https://www.youtube.com/watch?v=20riC-ouDis
+2. Руководство по установке
+    - от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
+    - https://www.youtube.com/watch?v=20riC-ouDis
+    - https://playbf2.tilda.ws/
+        - https://drive.google.com/drive/folders/1Ia3HpS0mhZMGWSnx9EIJ-t-ljCkpCEE_
 6. Номера сборки, не совпадают с номерами версии патчей... - https://rutracker.org/forum/viewtopic.php?p=84071361#84071361
     - v1.0 = 1.0.2442.0
     - v1.2 = 1.1.2696-528.0
