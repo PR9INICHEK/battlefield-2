@@ -38,7 +38,6 @@
 12. Руководство по модификации - https://steamcommunity.com/sharedfiles/filedetails/?id=1548099308
 13. Руководство пользователя - https://steamcommunity.com/sharedfiles/filedetails/?id=2083439256
 14. Как играть через Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=822373421
-15. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
 16. Возможно, как установить 1.41 - https://www.reddit.com/r/Battlefield2/comments/17zy651/guide_download_battlefield_2_play_online/
 17. если захочу приобрести физическую копию - https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
 18. какая-то длинная инструкция - https://www.cd-2-dvd.com/battlefield-2-complete-edition/
@@ -123,7 +122,7 @@
     - https://github.com/rpoxo/objmodv2
 7.  https://archive.org/details/sample-bf2-kit-team
 8.  https://archive.org/details/battlefield-2-complete-tools-pack
-9.  
+9. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
 
 # Открытые вопросы
 1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
