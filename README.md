@@ -128,3 +128,55 @@
 
 # Возможное решение проблемы при установке игры
     https://2f4y.com/forum/viewthread.php?forum_id=5&thread_id=1292 - добавить запись в реестр
+
+    You ran without admin right, yeah? Starting with Vista you are not Administrator by default, you are just "a guy who can request admin rights". Make a habit of starting installers with Right-Click-Run-as-Administrator (been doing that since WindowsNT, never used a Administrator Account for daily work, makes windows incredibly stable).
+
+Btw, I found that the keys in the registry are crypted when running as administrator but if you want to play as normal user you have to change them to unencrypted - also helps a lot with other keyproblems. Just check my registry, you have to use x9392 as a prefix to your key.
+
+Other nice registry magic: Switch the language on the fly. Russian sound like angry aliens eating your girlfriend, French like getting buttraped by a gay seargent using his M95, German sounds "just stupid" - did they never change the BF1942 voices?
+
+Using the full set of registry keys is important because otherwise things might run strange, e.g. updates claiming there is no BF installed, server scanners not finding your game or reporting wrong version and so on...
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA CORE\INSTALLED GAMES\EAGAMES\BF2-2006\ONLINE_CONTENT\BF2-EP1]
+"GameLauncherParameters"="+menu 1 +fullscreen 1 +modPath mods/xpack +ignoreAsserts 1"
+"GameLauncherPath"="D:\\games\\Battlefield2\\bf2.exe"
+"DisplayName"="Battlefield 2 Special Forces"
+"Version"="1.1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA CORE\INSTALLED GAMES\EAGAMES\BF2-2006\ONLINE_MAP_CONTENT\BF2AF]
+"GameLauncherParameters"="+menu 1 +fullscreen 1"
+"GameLauncherPath"="D:\\games\\Battlefield2\\bf2.exe"
+"DisplayName"="Battlefield 2: Armored Fury Booster Pack"
+"Version"="1.4"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA CORE\INSTALLED GAMES\EAGAMES\BF2-2006\ONLINE_MAP_CONTENT\BF2EURO]
+"GameLauncherParameters"="+menu 1 +fullscreen 1"
+"GameLauncherPath"="D:\\games\\Battlefield2\\bf2.exe"
+"DisplayName"="Battlefield 2: Euro Force Booster Pack"
+"Version"="1.4"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2]
+"Language"="English"
+"Locale"="en_US"
+"InstallDir"="D:\\games\\Battlefield2"
+"Version"="1.5"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2\ergc]
+@="x9392yourcleartextkeygoeshere"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2\wdc]
+@="true"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2 Special Forces]
+"Language"="English"
+"Locale"="en_US"
+"InstallDir"="D:\\games\\Battlefield2"
+"Version"="1.4"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2 Special Forces\ergc]
+@="x9392yourcleartextkeygoeshere"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Electronic Arts\EA Games\Battlefield 2 Special Forces\wdc]
+@="true"
