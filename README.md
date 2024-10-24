@@ -29,6 +29,8 @@
 10. Ещё инфа про порты - https://xn----8sbbemc3a7aecex.xn--p1ai/forum/lofiversion/index.php/t48555.html
     - https://diesel.elcat.kg/index.php?showtopic=2159974&page=3
 11. Есть файлы, но не ясно, можно ли их скачать - http://ftp2.sly.hu/index.php3?dr=letolt//battlefield2
+    - похоже что нет...
+13. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
