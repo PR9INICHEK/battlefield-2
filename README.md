@@ -65,7 +65,7 @@
 32. Улучшательства для игры - https://www.reddit.com/r/Battlefield2/wiki/gametweaks/
 33. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
 34. Много инфы, даже про CLI для экзешника - https://forum.tgamer.ru/index.php?topic=8.0
-35. 
+35. Про Punkbuster - https://answers.ea.com/t5/Other-Battlefield-Games/Punkbuster-Guide/td-p/4390461
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
