@@ -58,7 +58,8 @@
 25. Починка командира в 1.5 - https://www.reddit.com/r/Battlefield2/comments/n7y1dw/comment/gzbqhye/
     - https://www.reddit.com/r/Battlefield2/comments/1ce7dmt/comment/l33bwic/
 27. Расширение карт - https://www.reddit.com/r/Battlefield2/comments/1061qp6/battlefield_2_complete_collection_singleplayer_64/
-28. 
+28. Руководства по игре - https://www.reddit.com/r/Battlefield2/wiki/gameplaytips/
+29. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
