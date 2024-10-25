@@ -87,6 +87,8 @@
     - http://rutor.info/torrent/16563/battlefield-2-2005-pc-real-war
     - TO DO Найти по нему информацию о создателях
     - Часть инфы - https://vk.com/wall-105794834_990
+    - Архив статистики - https://web.archive.org/web/20111108215120/http://gamesport.com.ua/plugins/bf2stats/index.php
+    - 
 2. Руководство по установке
     - от uPlay - https://dtf.ru/u/887043-uplay/2219840-battlefield-2-v-2000-msk-261023
     - https://www.youtube.com/watch?v=20riC-ouDis
