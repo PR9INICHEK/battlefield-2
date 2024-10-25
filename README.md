@@ -55,7 +55,8 @@
 23. В Steam - https://steamdb.info/app/24860/depots/
 24. https://www.playground.ru/battlefield_2/file/rus
 25. Починка командира в 1.5 - https://www.reddit.com/r/Battlefield2/comments/n7y1dw/comment/gzbqhye/
-26. 
+    - https://www.reddit.com/r/Battlefield2/comments/1ce7dmt/comment/l33bwic/
+27. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
