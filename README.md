@@ -61,8 +61,9 @@
 28. Руководства по игре - https://www.reddit.com/r/Battlefield2/wiki/gameplaytips/
 29. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
 30. Советы по игре - https://www.reddit.com/r/Battlefield2/comments/lw76wy/comment/gpit060/
-31. Улучшательства для игры - https://www.reddit.com/r/Battlefield2/wiki/gametweaks/
-32. 
+    - https://forum.tgamer.ru/index.php?topic=202.0
+32. Улучшательства для игры - https://www.reddit.com/r/Battlefield2/wiki/gametweaks/
+33. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
