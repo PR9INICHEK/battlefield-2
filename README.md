@@ -54,7 +54,8 @@
 22. Для разблокировке 64 версий карт - https://archive.org/details/bf2all64_v1.0_setup
 23. В Steam - https://steamdb.info/app/24860/depots/
 24. https://www.playground.ru/battlefield_2/file/rus
-25. 
+25. Починка командира в 1.5 - https://www.reddit.com/r/Battlefield2/comments/n7y1dw/comment/gzbqhye/
+26. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
