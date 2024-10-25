@@ -63,7 +63,8 @@
 30. Советы по игре - https://www.reddit.com/r/Battlefield2/comments/lw76wy/comment/gpit060/
     - https://forum.tgamer.ru/index.php?topic=202.0
 32. Улучшательства для игры - https://www.reddit.com/r/Battlefield2/wiki/gametweaks/
-33. 
+33. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
+34. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
