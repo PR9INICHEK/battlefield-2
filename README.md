@@ -59,7 +59,8 @@
     - https://www.reddit.com/r/Battlefield2/comments/1ce7dmt/comment/l33bwic/
 27. Расширение карт - https://www.reddit.com/r/Battlefield2/comments/1061qp6/battlefield_2_complete_collection_singleplayer_64/
 28. Руководства по игре - https://www.reddit.com/r/Battlefield2/wiki/gameplaytips/
-29. 
+29. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
+30. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
