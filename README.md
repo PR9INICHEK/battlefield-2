@@ -162,7 +162,8 @@
 8.  https://archive.org/details/battlefield-2-complete-tools-pack
 9. Инструменты для разработчика - https://www.bf-games.net/downloads/category/361/modding-tools.html
 10. Navmesh - https://vk.com/topic-20139059_27052035
-11. 
+11. Руководство - https://vk.com/@-161984294-sekrety-moddinga-battlefield-2?ref=group_block
+12. 
 
 # Открытые вопросы
 1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
