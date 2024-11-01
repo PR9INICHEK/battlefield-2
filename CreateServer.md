@@ -142,6 +142,9 @@ running in the background. You can now log out without affecting the server.
 # Мониторинг
 `screen -r`
 
+# Подключение к серверу
+Создаём ярлык для BF2.exe и в свойствах объекта прописываем путь до сервера _+joinServer айпи.сервера +port 16567_
+
 # Открытые вопросы
 1. Куда логируются ошибки
 
