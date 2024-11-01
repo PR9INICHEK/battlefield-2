@@ -22,4 +22,9 @@
 15. Пишем _accept_
     - не ясно, _decline_ влияет ли на работоспособность сервера
         - > If you decline, you may not use the Tools & Materials.
-16. 
+16. Далее открывается лицензия на использование PunkBuster'a - "You will now be shown the EULA for PunkBuster. Press return to continue."
+17. Нажимаем _Enter_
+18. Нажимаем _Page Down_
+19. Пишем _yes_
+    - Не ясно, нужен ли он нам в текущих реалиях и можно ли написать _no_
+20. 
