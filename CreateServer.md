@@ -13,7 +13,7 @@
     - Тут должны быть запасные urls
 10. Если файл с расширением .rar, то устанавлием _unrar_ - `sudo apt-get install unrar`
 11. Разархивируем архив -`unrar x -r bf2-linuxded-1.5.3153.0-installer.rar`
-12. Для .sh этого не требуется делать
+12. Для _.sh_ этого не требуется делать
 ## Установка
 1. `sudo chmod +x bf2-linuxded-1.5.3153.0-installer.sh` - без этой команды при выполнении `sudo ./bf2-linuxded-1.5.3153.0-installer.sh` получите ошибку _command not found_
 15. `sudo ./bf2-linuxded-1.5.3153.0-installer.sh`
@@ -61,4 +61,4 @@
 
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
-2. 
+2. Инфа про PunkBuster - https://habr.com/ru/articles/149947/#comment_5076552
