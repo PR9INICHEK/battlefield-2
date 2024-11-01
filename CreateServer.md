@@ -57,6 +57,14 @@
 ## Настройка
 1. `sudo nano bf2/mods/bf2/settings/serversettings.con`
     - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
+    - Не меняем значение _sv.internet_ с 0 на 1 или получите ошибку при запуске
+    > Build date:implement unix date here
+        Module: GameServer
+        File: Game/GameServer/GameServer.cpp
+        Line: 647
+        Text: 0xbfed6a28
+        Current confile:
+    > https://www.realitymod.com/forum/showthread.php?p=2101064#post2101064
 2. TODO Тут нужна ссылка на то как настраивать _serversettings.con_, что за что отвечает и для _maplist.con_
     - `cd readmes`
     - `nano readme-linux.txt`
