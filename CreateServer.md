@@ -65,6 +65,8 @@
         Text: 0xbfed6a28
         Current confile:
     > https://www.realitymod.com/forum/showthread.php?p=2101064#post2101064
+    > _sv.punkBuster_ тоже 0 должен быть, так как не имеет смысла
+    > https://www.realitymod.com/forum/showthread.php?p=2101308#post2101308 
 2. TODO Тут нужна ссылка на то как настраивать _serversettings.con_, что за что отвечает и для _maplist.con_
     - `cd readmes`
     - `nano readme-linux.txt`
