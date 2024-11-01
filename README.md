@@ -73,7 +73,8 @@
 35. Про Punkbuster - https://answers.ea.com/t5/Other-Battlefield-Games/Punkbuster-Guide/td-p/4390461
 36. Какой-то интересный репозиторий - https://github.com/rkantos/bf2-matchmaking
 37. Много полезной инфы - https://www.unknowncheats.me/forum/battlefield-2-a/
-38. 
+38. Как иметь две разные версии игры - https://www.unknowncheats.me/forum/battlefield-2-a/61357-play-1-41-1-50-prob.html
+39. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
