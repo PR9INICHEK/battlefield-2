@@ -121,11 +121,11 @@ https://askubuntu.com/questions/1252062/how-to-install-libncurses-so-5-in-ubuntu
 
 `cd /home/bf2server/server-files/bf2`
 
-Для проверки, что всё хорошо
-`./start.sh +help`
 
 ## Запуск
-1. 
+1. `sudo ./start.sh +help` - Для проверки, что всё хорошо
+    - Если без `sudo`, то будет ошибка "./start.sh: 24: ulimit: error setting limit (Operation not permitted)". Хотя информация о параметрах выведется
+2. 
 
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
