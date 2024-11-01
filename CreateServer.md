@@ -61,6 +61,8 @@
     - `cd readmes`
     - `nano readme-linux.txt`
         - Тут инфа по параметрам для _serversettings.con_
+    - `nano readmeserver.txt`
+        - Тут ещё доп инфа, в том числе и про _maplist.con_
 4. sudo apt-get install ia32-libs
         Reading package lists... Done
         Building dependency tree... Done
