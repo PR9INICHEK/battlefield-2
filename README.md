@@ -17,6 +17,7 @@
         - > В принципе, у меня есть и bf2-linuxded-1.1.2965-797.0-installer.sh, т.е. сервер под linux версии 1.41, а к нему еще какие-то скрипты для статистики и еще что-то... Накачал, а времени разбираться нет.
     - 1.5 - bf2-linuxded-1.5.3153.0-installer.sh
         - https://www.bf-games.net/downloads/954/bf2-dedicated-server-150-linux-build-153153-8020.html
+        - https://en.ds-servers.com/gf/bf2-linuxded-1-5-3153-0-installer-sh.html
 3. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
