@@ -63,6 +63,9 @@
         - Тут инфа по параметрам для _serversettings.con_
     - `nano readmeserver.txt`
         - Тут ещё доп инфа, в том числе и про _maplist.con_
+     
+Какие-то из команд ниже помогли с проблемой
+
 4. sudo apt-get install ia32-libs
         Reading package lists... Done
         Building dependency tree... Done
@@ -96,6 +99,8 @@ find /usr/lib/ -name *libtinfo*
 `sudo ln -s /usr/lib/x86_64-linux-gnu/libncursesw.so.6.0 /usr/lib/libtinfo.so.5`
 
 
+https://stackoverflow.com/a/79141988
+
 `sudo nano /etc/apt/sources.list.d/ubuntu.sources`
     Types: deb
     URIs: http://security.ubuntu.com/ubuntu/
@@ -103,14 +108,21 @@ find /usr/lib/ -name *libtinfo*
     Components: main universe
     Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 
+
 `sudo apt update`
 `sudo apt-get install libncurses5:i386`
 
+https://stackoverflow.com/a/78649883
 
+`sudo add-apt-repository universe`
+`sudo apt-get install libncurses5 libncurses5:i386`
+https://askubuntu.com/questions/1252062/how-to-install-libncurses-so-5-in-ubuntu-20-04
 
 
 `cd /home/bf2server/server-files/bf2`
 
+Для проверки, что всё хорошо
+`./start.sh +help`
 
 ## Запуск
 1. 
