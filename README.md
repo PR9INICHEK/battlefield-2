@@ -82,7 +82,7 @@
 37. Много полезной инфы - https://www.unknowncheats.me/forum/battlefield-2-a/
 38. Как иметь две разные версии игры - https://www.unknowncheats.me/forum/battlefield-2-a/61357-play-1-41-1-50-prob.html
 39. Тут инфа о патчах - https://forallages.ru/games/?id=179
-40. 
+40. Как выглядела официальная страница батлы - https://web.archive.org/web/20090130010300/http://www.ea.com/official/battlefield/battlefield2/us/downloads.jsp
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
