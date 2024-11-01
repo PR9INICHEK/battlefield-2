@@ -43,7 +43,8 @@
 21. 1.41 - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
 22. https://www.realitymod.com/forum/showthread.php?t=130330#post2027244
 23. https://web.archive.org/web/20181012013515/http://tutorials.section6.net:80/home/how-to-set-up-a-dedicated-battlefield2-server
-24. 
+24. Вроде много полезной инфы - https://web.archive.org/web/20161022201322/http://bf2tech.org/index.php/Main_Page
+25. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
