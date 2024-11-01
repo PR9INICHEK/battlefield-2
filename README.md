@@ -38,7 +38,8 @@
 17. https://noirth.com/threads/help-battlefield-2-server-linux.4483/
 18. Инфа по игре, старые гайды - https://bf2-hellteam.at.ua/faq/0-1#9
 19. Много каких-то файлов и скриптов http://wftp2.sly.hu/index.php3?dr=letolt//battlefield2&lsort=1
-20. 
+20. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
+     - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
