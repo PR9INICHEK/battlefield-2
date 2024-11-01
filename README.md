@@ -84,7 +84,8 @@
 39. Тут инфа о патчах - https://forallages.ru/games/?id=179
 40. Как выглядела официальная страница батлы - https://web.archive.org/web/20090130010300/http://www.ea.com/official/battlefield/battlefield2/us/downloads.jsp
 41. Про обновление 1.41 - https://web.archive.org/web/20090212072828/http://ea.com/official/battlefield/battlefield2/us/editorial.jsp?src=communityupdate_111606
-42. 
+42. ИСТОРИЯ DICE - https://internetmuseum.se/tidslinjen/berattelsen-om-svenska-spelundret-dice-med-grundarens-egna-ord/
+43. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
