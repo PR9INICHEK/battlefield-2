@@ -125,7 +125,9 @@ https://askubuntu.com/questions/1252062/how-to-install-libncurses-so-5-in-ubuntu
 ## Запуск
 1. `sudo ./start.sh +help` - Для проверки, что всё хорошо
     - Если без `sudo`, то будет ошибка "./start.sh: 24: ulimit: error setting limit (Operation not permitted)". Хотя информация о параметрах выведется
-2. `screen ./start.sh`
+2. `screen ./start.sh +dedicated`
+Now press Ctrl-A followed by Ctrl-D to detach the screen session, leaving it
+running in the background. You can now log out without affecting the server.
 
 # Мониторинг
 `screen -r`
