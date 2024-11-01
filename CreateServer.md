@@ -58,6 +58,17 @@
 1. `sudo nano bf2/mods/bf2/settings/serversettings.con`
     - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
 2. TODO Тут нужна ссылка на то как настраивать serversettings.con, что за что отвечает и для maplist.con
+3. sudo apt-get install ia32-libs
+        Reading package lists... Done
+        Building dependency tree... Done
+        Reading state information... Done
+        Package ia32-libs is not available, but is referred to by another package.
+        This may mean that the package is missing, has been obsoleted, or
+        is only available from another source
+        However the following packages replace it:
+          lib32z1
+        
+        E: Package 'ia32-libs' has no installation candidate
 
 ## Запуск
 1. 
