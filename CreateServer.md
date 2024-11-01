@@ -12,8 +12,7 @@
 9. Если файл с расширением .rar, то устанавлием _unrar_ - `sudo apt-get install unrar`
 10. Разархивируем архив -`unrar x -r bf2-linuxded-1.5.3153.0-installer.rar`
 11. Для .sh этого не требуется делать
-12. sudo ./bf2-linuxded-1.5.3153.0-installer.sh - sudo: ./bf2-linuxded-1.5.3153.0-installer.sh: command not found
-10. `chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh`
-    - Но не понял, зачем эта команда
-11. `./bf2-linuxded-1.1.2965-797.0-installer.sh`
+12. `sudo chmod +x bf2-linuxded-1.5.3153.0-installer.sh` - без этой команды при выполнении `sudo ./bf2-linuxded-1.5.3153.0-installer.sh` получите ошибку _command not found_
+13. `sudo ./bf2-linuxded-1.5.3153.0-installer.sh`
+14. Нажимаем Enter
 12. 
