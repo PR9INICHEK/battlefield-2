@@ -74,7 +74,8 @@
 36. Какой-то интересный репозиторий - https://github.com/rkantos/bf2-matchmaking
 37. Много полезной инфы - https://www.unknowncheats.me/forum/battlefield-2-a/
 38. Как иметь две разные версии игры - https://www.unknowncheats.me/forum/battlefield-2-a/61357-play-1-41-1-50-prob.html
-39. 
+39. Тут инфа о патчах - https://forallages.ru/games/?id=179
+40. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
