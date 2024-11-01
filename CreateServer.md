@@ -55,4 +55,6 @@
 12. start.sh
 
 ## Настройка
-1. `nano /server/bf2/mods/bf2/settings/serversettings.con`
+1. `sudo nano /server/bf2/mods/bf2/settings/serversettings.con`
+    - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
+2. 
