@@ -6,9 +6,9 @@
     - потому что по умолчанию попадаешь в _bf2server@noname:/root$_
 6. `mkdir server-files`
 7. `cd server-files`
-8. `wget http://dev.insomnia365.com/mirror/bf2/1.41_patch/bf2-linuxded-1.1.2965-797.0-installer.sh`
-   - Ссылка нерабочая
-9. `chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh`
+8. `wget http://ftp2.sly.hu/letolt//battlefield2/bf2-linuxded-1.5.3153.0-installer.rar`
+    - Тут должны быть запасные urls
+10. `chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh`
    - Но не понял, зачем эта команда
-10. `./bf2-linuxded-1.1.2965-797.0-installer.sh`
-11. 
+11. `./bf2-linuxded-1.1.2965-797.0-installer.sh`
+12. 
