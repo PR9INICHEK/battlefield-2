@@ -138,3 +138,7 @@ running in the background. You can now log out without affecting the server.
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
 2. Инфа про PunkBuster - https://habr.com/ru/articles/149947/#comment_5076552
+3. В файлах есть инфа про
+    > Have fun with your Linux server!
+    > Andreas Andersson andreas.andersson@dice.se
+    > Возможно, что это он - https://dev.to/derwiath - https://www.neoboid.com/
