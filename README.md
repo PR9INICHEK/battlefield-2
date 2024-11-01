@@ -35,7 +35,8 @@
 14. https://www.reddit.com/r/Battlefield2/wiki/serveradmin/
 15. Ещё какая-то инфа по настройке сервера - https://www.gamefront.com/games/battlefield-2/file/bf2-dedicated-server-1-50-linux-build-1-5-3153
 16. https://wiki.opennet.ru/Battlefield_2_Dedicaded_Ranked_Server_v1.50_%2B_bf2statistics_%D0%BD%D0%B0_FreeBSD
-17. 
+17. https://noirth.com/threads/help-battlefield-2-server-linux.4483/
+18. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
