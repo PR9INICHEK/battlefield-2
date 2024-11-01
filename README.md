@@ -68,6 +68,8 @@
 33. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
 34. Много инфы, даже про CLI для экзешника - https://forum.tgamer.ru/index.php?topic=8.0
 35. Про Punkbuster - https://answers.ea.com/t5/Other-Battlefield-Games/Punkbuster-Guide/td-p/4390461
+36. Какой-то интересный репозиторий - https://github.com/rkantos/bf2-matchmaking
+37. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
