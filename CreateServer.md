@@ -37,5 +37,22 @@
     - > Installing PunkBuster...
     - 
     - > Installation complete.
+
+
+
+Вот такие файлы и папки у вас должны появиться в созданной папке **bf2**:
+1. admin
+2. lowercaseDir.py
+3. pb_ia-32
+4. readmes
+5. adminutils
+6.  mods
+7.  pylib-2.3.4.zip
+8. rotate_demo.cfg
+9. bin
+10. pb_amd-64
+11. python
+12. start.sh
+
 ## Настройка
-1. 
+1. `nano /server/bf2/mods/bf2/settings/serversettings.con`
