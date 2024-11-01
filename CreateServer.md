@@ -57,7 +57,10 @@
 ## Настройка
 1. `sudo nano bf2/mods/bf2/settings/serversettings.con`
     - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
-2. 
+2. TODO Тут нужна ссылка на то как настраивать serversettings.con, что за что отвечает и для maplist.con
+
+## Запуск
+1. 
 
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
