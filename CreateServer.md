@@ -14,5 +14,9 @@
 11. Для .sh этого не требуется делать
 12. `sudo chmod +x bf2-linuxded-1.5.3153.0-installer.sh` - без этой команды при выполнении `sudo ./bf2-linuxded-1.5.3153.0-installer.sh` получите ошибку _command not found_
 13. `sudo ./bf2-linuxded-1.5.3153.0-installer.sh`
-14. Нажимаем Enter
-12. 
+14. Видим сообщение "You will now be shown the EULA for the BF2 dedicated Linux server. Press return to continue."
+15. Нажимаем _Enter_
+12. Открывается лицензия и показывается процент пройдённого
+13. Либо пролистываем по чуть-чуть с помощью нажатия _Enter_
+14. Либо переходим к концу с помощью _Page Down_
+15. 
