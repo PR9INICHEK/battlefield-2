@@ -40,6 +40,8 @@
 19. Много каких-то файлов и скриптов http://wftp2.sly.hu/index.php3?dr=letolt//battlefield2&lsort=1
 20. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
      - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
+21. 1.41 - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
+22. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
