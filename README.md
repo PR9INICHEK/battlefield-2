@@ -37,7 +37,8 @@
 16. https://wiki.opennet.ru/Battlefield_2_Dedicaded_Ranked_Server_v1.50_%2B_bf2statistics_%D0%BD%D0%B0_FreeBSD
 17. https://noirth.com/threads/help-battlefield-2-server-linux.4483/
 18. Инфа по игре, старые гайды - https://bf2-hellteam.at.ua/faq/0-1#9
-19. 
+19. Много каких-то файлов и скриптов http://wftp2.sly.hu/index.php3?dr=letolt//battlefield2&lsort=1
+20. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
