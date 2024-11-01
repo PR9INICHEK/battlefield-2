@@ -27,4 +27,10 @@
 18. Нажимаем _Page Down_
 19. Пишем _yes_
     - Не ясно, нужен ли он нам в текущих реалиях и можно ли написать _no_
-20. 
+20. > The target installation directory is where the bf2 directory will be created and must be an existing directory. Enter your target installation directory:
+21. Указываем текущую директорию `/home/bf2server/server-files`
+22. Дожидаемся сообщений
+    - > Installing BF2 to /home/bf2server/server-files/bf2...
+    - > Installing PunkBuster...
+    - 
+    - > Installation complete.
