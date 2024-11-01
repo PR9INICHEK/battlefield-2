@@ -58,3 +58,7 @@
 1. `sudo nano bf2/mods/bf2/settings/serversettings.con`
     - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
 2. 
+
+# Полезные ссылки
+1. https://habr.com/ru/articles/149947/
+2. 
