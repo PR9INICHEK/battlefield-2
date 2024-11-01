@@ -57,8 +57,11 @@
 ## Настройка
 1. `sudo nano bf2/mods/bf2/settings/serversettings.con`
     - через `sudo`, в ином случае увидите - "[ File 'serversettings.con' is unwritable ]"
-2. TODO Тут нужна ссылка на то как настраивать serversettings.con, что за что отвечает и для maplist.con
-3. sudo apt-get install ia32-libs
+2. TODO Тут нужна ссылка на то как настраивать _serversettings.con_, что за что отвечает и для _maplist.con_
+    - `cd readmes`
+    - `nano readme-linux.txt`
+        - Тут инфа по параметрам для _serversettings.con_
+4. sudo apt-get install ia32-libs
         Reading package lists... Done
         Building dependency tree... Done
         Reading state information... Done
