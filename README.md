@@ -32,6 +32,8 @@
     - похоже что нет...
 13. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
 14. https://www.reddit.com/r/Battlefield2/wiki/serveradmin/
+15. Ещё какая-то инфа по настройке сервера - https://www.gamefront.com/games/battlefield-2/file/bf2-dedicated-server-1-50-linux-build-1-5-3153
+16. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
