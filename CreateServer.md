@@ -70,6 +70,25 @@
         
         E: Package 'ia32-libs' has no installation candidate
 
+`find /usr/lib/ -name *ncurses*`
+
+/usr/lib/x86_64-linux-gnu/libncursesw.so.6
+/usr/lib/x86_64-linux-gnu/libncurses.so.6
+/usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+/usr/lib/x86_64-linux-gnu/libncurses.so.6.4
+
+
+https://stackoverflow.com/questions/17005654/error-while-loading-shared-libraries-libncurses-so-5
+
+`sudo ln -s /usr/lib/x86_64-linux-gnu/libncursesw.so.6.0 /usr/lib/x86_64-linux-gnu/libncurses.so.5`
+
+find /usr/lib/ -name *libtinfo*
+/usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+/usr/lib/x86_64-linux-gnu/libtinfo.so.6
+
+`sudo ln -s /usr/lib/x86_64-linux-gnu/libncursesw.so.6.0 /usr/lib/x86_64-linux-gnu/libtinfo.so.5`
+
+
 ## Запуск
 1. 
 
