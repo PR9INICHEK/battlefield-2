@@ -271,6 +271,7 @@ Windows Registry Editor Version 5.00
     - Ещё какая-то презентация - https://www.youtube.com/watch?v=nElijjwP2L0
 3. BF2FreeLook - название программы
 4. Форум, где обсуждали - https://forum.free-track.net/index.php?showtopic=2998
-5. Какое-то обсуждение по теме - https://forums.naturalpoint.com/viewtopic.php?t=847
+    + https://forum.free-track.net/index.php?showtopic=1872
+6. Какое-то обсуждение по теме - https://forums.naturalpoint.com/viewtopic.php?t=847
     - И ещё https://www.reddit.com/r/battlefield3/comments/n78ht/came_across_a_video_trackir_headtracking/
 7. 
