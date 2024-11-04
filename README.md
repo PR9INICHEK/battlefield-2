@@ -265,3 +265,9 @@ Windows Registry Editor Version 5.00
 # Идеи
 1. Ставить билд PlayBF2 в компьютерных клубах
     - Например в Питерском, где атмосфера старых игр
+
+# FreeTrack
+1. https://www.youtube.com/watch?v=MEnD0jitcII
+2. BF2FreeLook - название программы
+3. Форум, где обсуждали - https://forum.free-track.net/index.php?showtopic=2998
+4. 
