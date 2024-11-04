@@ -278,3 +278,10 @@ Windows Registry Editor Version 5.00
 8. http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/102568-bf2freelook-head-tracking-mouselook-snap-pan-views-6.html
 9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/
 10. 
+
+# Джойстик
+1. https://joytokey.net/en/download
+
+# Самолёты
+1. https://forums.vbios.com/showtopic.php?tid/46274/tp/1/
+2. 
