@@ -270,4 +270,5 @@ Windows Registry Editor Version 5.00
 1. https://www.youtube.com/watch?v=MEnD0jitcII
 2. BF2FreeLook - название программы
 3. Форум, где обсуждали - https://forum.free-track.net/index.php?showtopic=2998
-4. 
+4. Какое-то обсуждение по теме - https://forums.naturalpoint.com/viewtopic.php?t=847
+5. 
