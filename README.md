@@ -274,4 +274,7 @@ Windows Registry Editor Version 5.00
     + https://forum.free-track.net/index.php?showtopic=1872
 6. Какое-то обсуждение по теме - https://forums.naturalpoint.com/viewtopic.php?t=847
     - И ещё https://www.reddit.com/r/battlefield3/comments/n78ht/came_across_a_video_trackir_headtracking/
-7. 
+7. https://forums.vbios.com/showtopic.php?tid/74411/all/1/
+8. http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/102568-bf2freelook-head-tracking-mouselook-snap-pan-views-6.html
+9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/
+10. 
