@@ -1,4 +1,7 @@
 # Создание и настройка сервера
+## Дано
+- Ubuntu 24.04
+
 ## Подготовка
 1. `sudo useradd -m bf2server`
 2. `sudo passwd bf2server` далее вводим пароль
