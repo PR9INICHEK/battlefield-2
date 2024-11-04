@@ -257,3 +257,11 @@ Windows Registry Editor Version 5.00
 4. https://www.ebay.com/itm/16703268986
 5. https://www.avito.ru/moskva/igry_pristavki_i_programmy/battlefield_2_zarubezhnaya_litsenziya_dvd-box_3638444786
 6. https://www.ebay.com/b/PC-Battlefield-2-Complete-Collection-Video-Games/139973/bn_43676512
+
+
+# Открытые вопросы
+1.
+
+# Идеи
+1. Ставить билд PlayBF2 в компьютерных клубах
+    - Например в Питерском, где атмосфера старых игр
