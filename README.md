@@ -97,29 +97,6 @@
     - https://www.youtube.com/watch?v=20riC-ouDis
     - https://playbf2.tilda.ws/
         - https://drive.google.com/drive/folders/1Ia3HpS0mhZMGWSnx9EIJ-t-ljCkpCEE_
-6. Номера сборки, не совпадают с номерами версии патчей... - https://rutracker.org/forum/viewtopic.php?p=84071361#84071361
-    - v1.0 = 1.0.2442.0
-    - v1.2 = 1.1.2696-528.0
-    - v1.3 = 1.1.2878-710.0
-    - v1.41 = 1.1.2965-797.0
-    - v1.5 = 1.5.3153-802.0
-    - а
-    - а
-    - 1.0.2442.0 = 1.0 (bf2 install, no patches)
-        1.1.2475.0 = 1.01
-        1.1.2484.0 = 1.02
-        1.1.2551.0 = 1.03
-        1.1.2552-344.0 = 1.1 (special forces install)
-        1.1.2554-356.0 = 1.12
-        1.1.2696-528.0 = 1.2
-        1.1.2716-548.0 = 1.21
-        1.1.2720-552.0 = 1.22
-        1.1.2878-710.0 = 1.3
-        1.1.2963-795.0 = 1.4
-        1.1.2965-797.0 = 1.41
-      https://www.unknowncheats.me/forum/431299-post112.html
-
-
 
 # Сообщества
 1. https://vk.com/t_gamer_real_war и https://vk.com/playbf2
