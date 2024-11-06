@@ -248,4 +248,6 @@ Windows Registry Editor Version 5.00
 2. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
 3. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
 4. https://web.archive.org/web/20071120224015/http://live.cnews.ru/forum/index.php?showtopic=9770
-5. 
+5. Похоже, что если менять оружие после сброса бомбы, то можно добиться их сбросу по одной
+    - https://youtu.be/0PRx9eUTWqo?si=iI09lg2Sc-nPAByL&t=320
+
