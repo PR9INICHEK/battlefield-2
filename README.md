@@ -50,11 +50,9 @@
     - https://www.reddit.com/r/Battlefield2/comments/1ce7dmt/comment/l33bwic/
 27. Расширение карт - https://www.reddit.com/r/Battlefield2/comments/1061qp6/battlefield_2_complete_collection_singleplayer_64/
 28. Руководства по игре - https://www.reddit.com/r/Battlefield2/wiki/gameplaytips/
-29. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
 30. Советы по игре - https://www.reddit.com/r/Battlefield2/comments/lw76wy/comment/gpit060/
     - https://forum.tgamer.ru/index.php?topic=202.0
 32. Улучшательства для игры - https://www.reddit.com/r/Battlefield2/wiki/gametweaks/
-33. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
 34. Много инфы, даже про CLI для экзешника - https://forum.tgamer.ru/index.php?topic=8.0
 35. Про Punkbuster - https://answers.ea.com/t5/Other-Battlefield-Games/Punkbuster-Guide/td-p/4390461
 36. Какой-то интересный репозиторий - https://github.com/rkantos/bf2-matchmaking
@@ -246,4 +244,6 @@ Windows Registry Editor Version 5.00
 
 # Самолёты
 1. https://forums.vbios.com/showtopic.php?tid/46274/tp/1/
-2. 
+2. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
+3. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
+4. 
