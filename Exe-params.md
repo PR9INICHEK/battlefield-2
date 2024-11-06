@@ -1,5 +1,13 @@
 ### Usage: BF2.exe <options>
 
+Как проверить на Windows:
+1. Открыть терминал
+2. Перейти в папку с игрой с помощью команды `cd`
+    - Например - `cd "D:\Games\Battlefield 2 Complete Collection\"`
+3. Выполнить команду `start BF2.exe +help`
+![image](https://github.com/user-attachments/assets/91a6c36c-6455-48f5-86d2-2653a8549351)
+
+
 # Available options are:
 - `+dedicated`  -  Start in dedicated server mode
 - `+multi`  -  Allow starting multiple BF2 instances
