@@ -64,7 +64,8 @@
 43. Про патч 1.60 от Tema567 - https://forum.tgamer.ru/index.php?topic=1321.msg21809#msg21809
 44. Много инфы должно быть тут - https://forums.vbios.com/showforum.php?fid/81/
 45. Руководства - https://forums.bf2s.com/viewforum.php?id=55
-46. 
+46. https://web.archive.org/web/20090515110416/http://live.cnews.ru/forum/index.php?showforum=93
+47. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
@@ -246,4 +247,5 @@ Windows Registry Editor Version 5.00
 1. https://forums.vbios.com/showtopic.php?tid/46274/tp/1/
 2. Про самолёты - http://bf-club.ru/threads/bf2-samolety.874/
 3. Как сбивать самолёты - https://www.reddit.com/r/Battlefield2/comments/p2gaf5/tips_on_dealing_with_jets_from_a_jet_player/
-4. 
+4. https://web.archive.org/web/20071120224015/http://live.cnews.ru/forum/index.php?showtopic=9770
+5. 
