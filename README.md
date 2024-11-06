@@ -1,24 +1,5 @@
 # Создание сервера
-1. https://github.com/nihlen/bf2-docker
-2. Linux - https://habr.com/ru/articles/149947/
-    - https://www.bf2hub.com/home/serversetup.php
-    -  +ещё инфа https://bf2-nns.clan.su/forum/4-77-1
-    - https://opticatelecom.ru/forum/topic/4773-%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-battlefield-2/
-    - Для версии 1.0 - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
-    - 1.41 - https://forums.bf2s.com/viewtopic.php?id=81206
-    - > wget http://dev.insomnia365.com/mirror/bf2/1.41_patch/bf2-linuxded-1.1.2965-797.0-installer.sh
-    - > chmod +x bf2-linuxded-1.1.2965-797.0-installer.sh
-    - > ./bf2-linuxded-1.1.2965-797.0-installer.sh
-    - Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
-    - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
-        - В комментариях есть полезная инфа
-    - https://forum.lissyara.su/igry-f33/battlefield-2-server-t8015.html#p66968
-    - https://www.forum-volgograd.ru/threads/75914/page-3#post-1539801
-        - > В принципе, у меня есть и bf2-linuxded-1.1.2965-797.0-installer.sh, т.е. сервер под linux версии 1.41, а к нему еще какие-то скрипты для статистики и еще что-то... Накачал, а времени разбираться нет.
-    - 1.5 - bf2-linuxded-1.5.3153.0-installer.sh
-        - https://www.bf-games.net/downloads/954/bf2-dedicated-server-150-linux-build-153153-8020.html
-        - https://en.ds-servers.com/gf/bf2-linuxded-1-5-3153-0-installer-sh.html
-3. https://github.com/startersclan/docker-bf2
+1. https://github.com/startersclan/docker-bf2
 4. Статистика
     - https://github.com/chrisw1229/bf2-stats
 5. Скрипты для админов
@@ -31,16 +12,12 @@
     - https://diesel.elcat.kg/index.php?showtopic=2159974&page=3
 11. Есть файлы, но не ясно, можно ли их скачать - http://ftp2.sly.hu/index.php3?dr=letolt//battlefield2
     - похоже что нет...
-13. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
 14. https://www.reddit.com/r/Battlefield2/wiki/serveradmin/
 15. Ещё какая-то инфа по настройке сервера - https://www.gamefront.com/games/battlefield-2/file/bf2-dedicated-server-1-50-linux-build-1-5-3153
 16. https://wiki.opennet.ru/Battlefield_2_Dedicaded_Ranked_Server_v1.50_%2B_bf2statistics_%D0%BD%D0%B0_FreeBSD
 17. https://noirth.com/threads/help-battlefield-2-server-linux.4483/
 18. Инфа по игре, старые гайды - https://bf2-hellteam.at.ua/faq/0-1#9
 19. Много каких-то файлов и скриптов http://wftp2.sly.hu/index.php3?dr=letolt//battlefield2&lsort=1
-20. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
-     - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
-21. 1.41 - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
 22. https://www.realitymod.com/forum/showthread.php?t=130330#post2027244
 23. https://web.archive.org/web/20181012013515/http://tutorials.section6.net:80/home/how-to-set-up-a-dedicated-battlefield2-server
 24. Вроде много полезной инфы - https://web.archive.org/web/20161022201322/http://bf2tech.org/index.php/Main_Page
