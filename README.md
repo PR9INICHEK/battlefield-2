@@ -66,7 +66,8 @@
 42. ИСТОРИЯ DICE - https://internetmuseum.se/tidslinjen/berattelsen-om-svenska-spelundret-dice-med-grundarens-egna-ord/
 43. Про патч 1.60 от Tema567 - https://forum.tgamer.ru/index.php?topic=1321.msg21809#msg21809
 44. Много инфы должно быть тут - https://forums.vbios.com/showforum.php?fid/81/
-45. 
+45. Руководства - https://forums.bf2s.com/viewforum.php?id=55
+46. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
