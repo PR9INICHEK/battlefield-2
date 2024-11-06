@@ -66,7 +66,8 @@
 5. https://opticatelecom.ru/forum/topic/4773-%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-battlefield-2/
 6. 1.0 версия серверных файлов для Linus - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
 7. 1.41 - https://forums.bf2s.com/viewtopic.php?id=81206
-8. Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
+    - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
+9. Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
     - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
         - В комментариях есть полезная инфа
     - https://forum.lissyara.su/igry-f33/battlefield-2-server-t8015.html#p66968
@@ -75,3 +76,6 @@
     - 1.5 - bf2-linuxded-1.5.3153.0-installer.sh
         - https://www.bf-games.net/downloads/954/bf2-dedicated-server-150-linux-build-153153-8020.html
         - https://en.ds-servers.com/gf/bf2-linuxded-1-5-3153-0-installer-sh.html
+10. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
+     - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
+11. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
