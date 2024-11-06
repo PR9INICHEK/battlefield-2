@@ -41,3 +41,7 @@ renderer.vsync 1
 А вторая синхронизирует частоту кадров с вашим монитором
 
 Инфу о том, в какой файл добавлять изменения почерпнул на https://www.pcgamingwiki.com/wiki/Battlefield_2 и https://www.pcgamingwiki.com/wiki/Battlefield_2#High_frame_rate
+
+
+3. Включение синхронизации через монитор - https://steamcommunity.com/app/24860/discussions/0/133256959380901741/
+4. 
