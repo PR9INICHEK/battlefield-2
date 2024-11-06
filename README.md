@@ -60,7 +60,6 @@
 36. Какой-то интересный репозиторий - https://github.com/rkantos/bf2-matchmaking
 37. Много полезной инфы - https://www.unknowncheats.me/forum/battlefield-2-a/
 38. Как иметь две разные версии игры - https://www.unknowncheats.me/forum/battlefield-2-a/61357-play-1-41-1-50-prob.html
-39. Тут инфа о патчах - https://forallages.ru/games/?id=179
 40. Как выглядела официальная страница батлы - https://web.archive.org/web/20090130010300/http://www.ea.com/official/battlefield/battlefield2/us/downloads.jsp
 41. Про обновление 1.41 - https://web.archive.org/web/20090212072828/http://ea.com/official/battlefield/battlefield2/us/editorial.jsp?src=communityupdate_111606
 42. ИСТОРИЯ DICE - https://internetmuseum.se/tidslinjen/berattelsen-om-svenska-spelundret-dice-med-grundarens-egna-ord/
