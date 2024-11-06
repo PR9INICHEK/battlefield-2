@@ -11,7 +11,7 @@
     > https://www.realitymod.com/forum/showthread.php?p=2101064#post2101064
     > _sv.punkBuster_ тоже 0 должен быть, так как не имеет смысла
     > https://www.realitymod.com/forum/showthread.php?p=2101308#post2101308 
-2. TODO Тут нужна ссылка на то как настраивать _serversettings.con_, что за что отвечает и для _maplist.con_
+2. **TODO** Тут нужна ссылка на то как настраивать _serversettings.con_, что за что отвечает и для _maplist.con_
     - `cd readmes`
     - `nano readme-linux.txt`
         - Тут инфа по параметрам для _serversettings.con_
@@ -20,7 +20,7 @@
      
 Какие-то из команд ниже помогли с проблемой
 
-4. sudo apt-get install ia32-libs
+4. `sudo apt-get install ia32-libs`
         Reading package lists... Done
         Building dependency tree... Done
         Reading state information... Done
@@ -91,3 +91,10 @@ running in the background. You can now log out without affecting the server.
 
 # Открытые вопросы
 1. Куда логируются ошибки
+
+# Полезные ссылки
+1. Инфа про PunkBuster - https://habr.com/ru/articles/149947/#comment_5076552
+2. В файлах есть инфа про
+    > Have fun with your Linux server!
+    > Andreas Andersson andreas.andersson@dice.se
+    > Возможно, что это он - https://dev.to/derwiath - https://www.neoboid.com/
