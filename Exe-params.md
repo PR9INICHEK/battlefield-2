@@ -5,6 +5,7 @@
 2. Перейти в папку с игрой с помощью команды `cd`
     - Например - `cd "D:\Games\Battlefield 2 Complete Collection\"`
 3. Выполнить команду `start BF2.exe +help`
+
 ![image](https://github.com/user-attachments/assets/91a6c36c-6455-48f5-86d2-2653a8549351)
 
 
