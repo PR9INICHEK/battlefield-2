@@ -44,4 +44,5 @@ renderer.vsync 1
 
 
 3. Включение синхронизации через монитор - https://steamcommunity.com/app/24860/discussions/0/133256959380901741/
-4. 
+4. https://hardforum.com/threads/forcing-vsync-in-bf-2-2142-on-ati.1485390/
+   - Тут пишут, что эту настройку надо сохранять в video.con в профиле
