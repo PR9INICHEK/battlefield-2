@@ -65,7 +65,8 @@
 44. Много инфы должно быть тут - https://forums.vbios.com/showforum.php?fid/81/
 45. Руководства - https://forums.bf2s.com/viewforum.php?id=55
 46. https://web.archive.org/web/20090515110416/http://live.cnews.ru/forum/index.php?showforum=93
-47. 
+47. Проект по реверс-инженирингу - https://github.com/rigred/BattlefieldRespawn
+48. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
