@@ -22,7 +22,8 @@
 23. https://web.archive.org/web/20181012013515/http://tutorials.section6.net:80/home/how-to-set-up-a-dedicated-battlefield2-server
 24. Вроде много полезной инфы - https://web.archive.org/web/20161022201322/http://bf2tech.org/index.php/Main_Page
 25. Отключение лока фпс и показ его в игре - https://forums.bf2s.com/viewtopic.php?pid=1945787#p1945787
-26. 
+26. https://bf2tech.uturista.pt/index.php/GameSpy_Protocol
+27. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
