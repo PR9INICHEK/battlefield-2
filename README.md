@@ -23,7 +23,8 @@
 24. Вроде много полезной инфы - https://web.archive.org/web/20161022201322/http://bf2tech.org/index.php/Main_Page
 25. Отключение лока фпс и показ его в игре - https://forums.bf2s.com/viewtopic.php?pid=1945787#p1945787
 26. https://bf2tech.uturista.pt/index.php/GameSpy_Protocol
-27. 
+27. https://bf2tech.uturista.pt/index.php/Useful_Software - программы
+28. 
 
 # Полезные ссылки
 1. Сервер Old School - http://www.bf2-oss.com/
