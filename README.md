@@ -144,7 +144,8 @@
 10. Navmesh - https://vk.com/topic-20139059_27052035
 11. Руководство - https://vk.com/@-161984294-sekrety-moddinga-battlefield-2?ref=group_block
 12. https://www.youtube.com/watch?v=VIVhDU65GBE
-13. 
+13. Как работает Python - https://bf2tech.uturista.pt/index.php/Big_Picture
+14. 
 
 # Открытые вопросы
 1. Тоже используется для хостинга серверов - https://www.gameranger.com/news/
