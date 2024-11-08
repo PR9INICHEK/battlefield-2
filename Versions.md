@@ -18,3 +18,7 @@
 1. https://rutracker.org/forum/viewtopic.php?p=84071361#84071361
 2. https://www.unknowncheats.me/forum/431299-post112.html
 3. https://forallages.ru/games/?id=179
+
+
+## Список изменений в версиях
+- https://bf2tech.uturista.pt/index.php/BF2_Changelog
