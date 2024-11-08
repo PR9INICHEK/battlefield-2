@@ -66,7 +66,8 @@
 45. Руководства - https://forums.bf2s.com/viewforum.php?id=55
 46. https://web.archive.org/web/20090515110416/http://live.cnews.ru/forum/index.php?showforum=93
 47. Проект по реверс-инженирингу - https://github.com/rigred/BattlefieldRespawn
-48. 
+48. https://bf2tech.uturista.pt/index.php/BF2_Console_Commands#renderer - команды для консоли
+49. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
