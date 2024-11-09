@@ -50,6 +50,11 @@ https://2f4y.com/forum/viewthread.php?forum_id=5&thread_id=3837
 > Btw Usersettings.con ->1. Uncheck ReadOnly, 2. do whatever U want, 3. Check ReadOnly
 
 
+А тут про Controls в папке с профилем
+
+https://www.lost-soldiers.org/v2.php?site=forum_topic&topic=81#16314
+> Documents \ Battlefield 2 \ Profiles \ 0001 folder (repeat for every other profile), open the Controls.con file with the editor and at the end the line,
+
 
 
 3. Включение синхронизации через монитор - https://steamcommunity.com/app/24860/discussions/0/133256959380901741/
