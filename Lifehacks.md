@@ -42,7 +42,18 @@ renderer.vsync 1
 
 Инфу о том, в какой файл добавлять изменения почерпнул на https://www.pcgamingwiki.com/wiki/Battlefield_2 и https://www.pcgamingwiki.com/wiki/Battlefield_2#High_frame_rate
 
+https://2f4y.com/forum/viewthread.php?forum_id=5&thread_id=3837
+> Battlefield2->mods->bf2->Settings
+> 
+> USERSETTINGS
+> 
+> Btw Usersettings.con ->1. Uncheck ReadOnly, 2. do whatever U want, 3. Check ReadOnly
+
+
+
 
 3. Включение синхронизации через монитор - https://steamcommunity.com/app/24860/discussions/0/133256959380901741/
 4. https://hardforum.com/threads/forcing-vsync-in-bf-2-2142-on-ati.1485390/
    - Тут пишут, что эту настройку надо сохранять в video.con в профиле
+
+
