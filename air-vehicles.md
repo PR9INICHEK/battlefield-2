@@ -1,6 +1,7 @@
 # Head tracking
 1. https://www.realitymod.com/forum/showthread.php?t=145891
    - https://www.mediafire.com/file/9z5u6v9c3n5t42d/BF2FreeLook.rar
+   - https://discord.com/channels/190090455973756928/190090455973756928/1087314270250864670
 2. https://www.youtube.com/watch?v=MEnD0jitcII
     - Ещё какая-то презентация - https://www.youtube.com/watch?v=nElijjwP2L0
 3. BF2FreeLook - название программы
