@@ -15,6 +15,7 @@
 
 # Джойстик
 1. https://joytokey.net/en/download
+2. https://www.realtimerendering.com/erich/battlefield2/joystick.html
 
 # Самолёты
 1. https://forums.vbios.com/showtopic.php?tid/46274/tp/1/
