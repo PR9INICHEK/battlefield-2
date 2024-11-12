@@ -87,4 +87,5 @@ I personally unlock my FPS with game.lockfps 0, because I crave that input lag r
 These other components are the windows infrastructure needed to run the game, including things such as USB drivers, mouse/kb drivers, Network protocols and drivers, graphics drivers, etc.
 
 5. Как изменить язык - https://web.archive.org/web/20171117214115mp_/https://battlelog.co/post.php?id=13636
-6. 
+6. Описание карт с расположением различных мест - https://www.realtimerendering.com/erich/battlefield2/maps/maps.html
+7. 
