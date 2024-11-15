@@ -73,7 +73,7 @@
 50. Про командира - http://bf2.tgamer.ru/index.php?p=tak3
 51. Про вертолёты - http://bf2.tgamer.ru/index.php?p=tak7
 52. Статистика - http://bf2.tgamer.ru/b2stat/index.php?input1=500041464
-53. 
+53. https://forum.tgamer.ru/index.php?topic=1525.0 - школа бф2
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
