@@ -31,7 +31,8 @@
 
 6. https://web.archive.org/web/20201021043835/https://sites.google.com/site/codexsite/samolety
 7. https://web.archive.org/web/20201021043836/https://sites.google.com/site/codexsite/makros-dzojstika
-8. 
+8. http://bf-club.ru/threads/bf2-samolety.874/
+9. 
 
 # Интересности
 1. Отмечает всякое через меню
