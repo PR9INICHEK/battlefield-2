@@ -30,7 +30,8 @@
     - https://web.archive.org/web/20071120224031/http://live.cnews.ru/forum/index.php?showtopic=9770&st=20# 
 
 6. https://web.archive.org/web/20201021043835/https://sites.google.com/site/codexsite/samolety
-7. 
+7. https://web.archive.org/web/20201021043836/https://sites.google.com/site/codexsite/makros-dzojstika
+8. 
 
 # Интересности
 1. Отмечает всякое через меню
