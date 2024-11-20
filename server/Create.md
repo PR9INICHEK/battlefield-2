@@ -76,6 +76,8 @@
 10. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
      - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
 11. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
+12. https://web.archive.org/web/20140816010034/http://live.cnews.ru/games/index.php?showtopic=27998
+13. 
 
 # Если нужно подключить сервер к BF2HUB
 - https://www.bf2hub.com/home/serversetup.php
