@@ -27,9 +27,7 @@
 28. 
 
 # Полезные ссылки
-1. Сервер Old School - http://www.bf2-oss.com/
-5. Старый форум ребят - https://bf2-nns.clan.su/forum/4
-6. http://bf2.breiker.net/
+1. http://bf2.breiker.net/
 7. https://github.com/search?q=battlefield+2&type=repositories - поиск инфы по гитхабу
 8. https://shark.lost-soldiers.org/ - Инфа об одном из создателей Lost-Soldiers.org - I am the co-founder of the Lost-Soldiers.org Battlefield 2 Community
 9. https://github.com/art567/bf2keyman/tree/master - @tema567 создатель, в тг
