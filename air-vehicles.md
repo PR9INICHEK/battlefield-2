@@ -2,8 +2,6 @@
 1. https://www.realitymod.com/forum/showthread.php?t=145891
    - https://www.mediafire.com/file/9z5u6v9c3n5t42d/BF2FreeLook.rar
    - https://discord.com/channels/190090455973756928/190090455973756928/1087314270250864670
-2. https://www.youtube.com/watch?v=MEnD0jitcII
-    - Ещё какая-то презентация - https://www.youtube.com/watch?v=nElijjwP2L0
 4. Форум, где обсуждали - https://forum.free-track.net/index.php?showtopic=2998
     + https://forum.free-track.net/index.php?showtopic=1872
 5. Какое-то обсуждение по теме - https://forums.naturalpoint.com/viewtopic.php?t=847
@@ -13,6 +11,10 @@
    - Пока форум не работает можно пользоваться этой ссылкой - https://web.archive.org/web/20170902192131/http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/102568-bf2freelook-head-tracking-mouselook-snap-pan-views.html
 9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/
    - Открывать из под VPN
+
+## Исторические видео
+1. https://www.youtube.com/watch?v=MEnD0jitcII
+    - Ещё какая-то презентация - https://www.youtube.com/watch?v=nElijjwP2L0
 
 # Джойстик
 1. https://joytokey.net/en/download
