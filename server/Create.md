@@ -57,6 +57,9 @@
 11. python
 12. start.sh
 
+# Статистика
+1. https://github.com/wilson212/bf2stats
+2. https://code.google.com/archive/p/bf2stats/downloads
 
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
