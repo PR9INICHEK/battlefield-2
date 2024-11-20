@@ -11,7 +11,8 @@
 6. https://forums.vbios.com/showtopic.php?tid/74411/all/1/
 7. http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/102568-bf2freelook-head-tracking-mouselook-snap-pan-views-6.html
    - Пока форум не работает можно пользоваться этой ссылкой - https://web.archive.org/web/20170902192131/http://www.realitymod.com/forum/f10-pr-bf2-general-discussion/102568-bf2freelook-head-tracking-mouselook-snap-pan-views.html
-9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/ 
+9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/
+   - Открывать из под VPN
 
 # Джойстик
 1. https://joytokey.net/en/download
