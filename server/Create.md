@@ -61,7 +61,6 @@
 # Полезные ссылки
 1. https://habr.com/ru/articles/149947/
 2. https://github.com/nihlen/bf2-docker
-3. https://www.bf2hub.com/home/serversetup.php
 4. https://bf2-nns.clan.su/forum/4-77-1
 5. https://opticatelecom.ru/forum/topic/4773-%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-battlefield-2/
 6. 1.0 версия серверных файлов для Linus - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
@@ -79,3 +78,6 @@
 10. Возможно, что для 1.41 подходит патч от 1.40 - https://www.patches-scrolls.com/battlefield2.php
      - А изменения чисто клиентские, НО ЭТО НЕ ТОЧНО
 11. https://www.bf-games.net/forum/topic/44144-bf2-15-image-howto-install-linux/
+
+# Если нужно подключить сервер к BF2HUB
+- https://www.bf2hub.com/home/serversetup.php
