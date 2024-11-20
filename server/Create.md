@@ -63,9 +63,7 @@
 2. https://github.com/nihlen/bf2-docker
 4. https://bf2-nns.clan.su/forum/4-77-1
 5. https://opticatelecom.ru/forum/topic/4773-%D0%BA%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B9-%D1%80%D0%B0%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-battlefield-2/
-6. 1.0 версия серверных файлов для Linus - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
-7. 1.41 - https://forums.bf2s.com/viewtopic.php?id=81206
-    - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
+6. 
 9. Какая-то инфа, может быть полезна - https://serversupportforum.de/threads/battlefield-2-server-installation.60229/
     - https://www.lissyara.su/articles/freebsd/games/ea_battlefield_2_game_server/
         - В комментариях есть полезная инфа
@@ -81,3 +79,8 @@
 
 # Если нужно подключить сервер к BF2HUB
 - https://www.bf2hub.com/home/serversetup.php
+
+# Старые версии
+- 1.0 - https://www.moddb.com/games/battlefield-2/downloads/linux-dedicated-server-1-0
+- 1.41 - https://forums.bf2s.com/viewtopic.php?id=81206
+    - http://wftp2.sly.hu/ftpstart/?dl=letolt//battlefield2/bf2-linuxded-1.1.2965-797.0-installer.sh.gz
