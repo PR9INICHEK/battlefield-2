@@ -74,19 +74,6 @@
     - https://playbf2.tilda.ws/
         - https://drive.google.com/drive/folders/1Ia3HpS0mhZMGWSnx9EIJ-t-ljCkpCEE_
 
-# Сообщества
-1. https://vk.com/t_gamer_real_war и https://vk.com/playbf2
-    - https://forum.tgamer.ru/index.php
-    - https://discord.gg/aAaXf9G
-    - https://t.me/bf2RW
-    - https://t.me/playbf2ru
-2. https://www.lost-soldiers.org/v2.php?site=forum
-3. https://www.reddit.com/r/Battlefield2/
-    - https://www.reddit.com/r/Battlefield2/wiki/clans/
-5. 
-6. https://www.facebook.com/bf2thoss - Тайское
-
-
 # Патчи
 1. 1.41 - https://www.moddb.com/downloads/battlefield-2-v141-patch
     - https://gamefiles.bf2hub.com/BF2_Patch_1_41_Full.exe
