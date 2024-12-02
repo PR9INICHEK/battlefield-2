@@ -27,4 +27,5 @@
 29. https://github.com/maiorBoltach/bf2142stats_emu - можно какую-то информацию здесь почерпнуть
 30. https://github.com/wilson212/bf2stats - ещё какая-то инфа
 31. https://github.com/art567/bf2statistics
-32. 
+32. https://github.com/chrisw1229/bf2-stats
+33. 
