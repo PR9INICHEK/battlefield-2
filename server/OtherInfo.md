@@ -28,4 +28,5 @@
 30. https://github.com/wilson212/bf2stats - ещё какая-то инфа
 31. https://github.com/art567/bf2statistics
 32. https://github.com/chrisw1229/bf2-stats
-33. 
+33. https://github.com/nihlen/BF2WebAdmin
+34. 
