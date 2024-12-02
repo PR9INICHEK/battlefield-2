@@ -2,6 +2,7 @@
 1. https://www.youtube.com/watch?v=NHR1pu6CkhM
    - https://github.com/AIRLegend/aitrack/releases/tag/v0.6.4-alpha
    - https://github.com/Teor99/bf2prHeadTracking/releases
+      - https://www.youtube.com/watch?v=PcQmqMGp9s8
    - https://github.com/nefarius/Injector/releases
 2.  https://www.realitymod.com/forum/showthread.php?t=145891
    - 02.12.2024 - получаю ошибку - You are not authorised to read this forum.
