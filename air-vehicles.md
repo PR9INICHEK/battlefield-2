@@ -4,6 +4,7 @@
    - https://github.com/Teor99/bf2prHeadTracking/releases
       - https://www.youtube.com/watch?v=PcQmqMGp9s8
    - https://github.com/nefarius/Injector/releases
+   - https://forum.realitymod.com/viewtopic.php?p=2221631
 2. https://www.realitymod.com/forum/showthread.php?t=145891
    - 02.12.2024 - получаю ошибку - You are not authorised to read this forum.
 3. https://www.mediafire.com/file/9z5u6v9c3n5t42d/BF2FreeLook.rar
