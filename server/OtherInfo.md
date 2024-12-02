@@ -23,4 +23,5 @@
 25. Отключение лока фпс и показ его в игре - https://forums.bf2s.com/viewtopic.php?pid=1945787#p1945787
 26. https://bf2tech.uturista.pt/index.php/GameSpy_Protocol
 27. https://bf2tech.uturista.pt/index.php/Useful_Software - программы
-28. 
+28. https://github.com/realitymod/PRMasterServer - замена GameSpy
+29. 
