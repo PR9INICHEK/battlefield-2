@@ -24,4 +24,5 @@
 26. https://bf2tech.uturista.pt/index.php/GameSpy_Protocol
 27. https://bf2tech.uturista.pt/index.php/Useful_Software - программы
 28. https://github.com/realitymod/PRMasterServer - замена GameSpy
-29. 
+29. https://github.com/maiorBoltach/bf2142stats_emu - можно какую-то информацию здесь почерпнуть
+30. 
