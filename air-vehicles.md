@@ -1,5 +1,9 @@
 # Head tracking - BF2FreeLook
-1. https://www.realitymod.com/forum/showthread.php?t=145891
+1. https://www.youtube.com/watch?v=NHR1pu6CkhM
+   - https://github.com/AIRLegend/aitrack/releases/tag/v0.6.4-alpha
+   - https://github.com/Teor99/bf2prHeadTracking/releases
+   - https://github.com/nefarius/Injector/releases
+2.  https://www.realitymod.com/forum/showthread.php?t=145891
    - 02.12.2024 - получаю ошибку - You are not authorised to read this forum.
 3. https://www.mediafire.com/file/9z5u6v9c3n5t42d/BF2FreeLook.rar
    - https://discord.com/channels/190090455973756928/190090455973756928/1087314270250864670
