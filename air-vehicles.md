@@ -19,6 +19,8 @@
    - Теперь адрес такой - https://forum.realitymod.com/viewtopic.php?t=102568
 9. https://forums.vbios.com/showtopic.php?tid/59759/fromsearch/1/tp/0/all/1/
    - Открывать из под VPN
+10. https://github.com/PeterN/freetrack/issues/1#issuecomment-2629219553
+11. 
 
 ## Исторические видео
 1. https://www.youtube.com/watch?v=MEnD0jitcII
