@@ -44,6 +44,8 @@
 51. Про вертолёты - http://bf2.tgamer.ru/index.php?p=tak7
 52. Статистика - http://bf2.tgamer.ru/b2stat/index.php?input1=500041464
 53. https://forum.tgamer.ru/index.php?topic=1525.0 - школа бф2
+54. Про систему рангов - https://www.reddit.com/r/battlefield2042/comments/oxz095/why_battlefield_2s_ranking_system_is_superior_say/
+55. 
 
 # Интересные моды
 1. https://www.youtube.com/watch?v=UbGGfO1wbnU
